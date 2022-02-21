@@ -1,6 +1,14 @@
 # AIracers
 Driving application that self-corrects through machine learning. Each simulated vehicle adapts to the user's path.
 
+*** HOW TO LAUNCH ***
+
+It's easy. Just go into the "src" directory, and find the file Driver.java
+
+Launch the program in the terminal with the command: java Driver.java
+
+To be sure, you can also compile it as well, with the command: javac Driver.java; java Driver.java
+
 *** HOW TO USE ***
 
 Upon launching the application please ignore the green car for now.
